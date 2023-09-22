@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <br>⭐ Besides all that I atheletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
 </p><p dir="auto">Follow me on <a href="https://www.instagram.com/its_moh.it_g_/" rel="nofollow">Instagram</a></p>
+</p><p dir="auto">Connect with me on <a href="https://www.linkedin.com/in/mohit-gupta-a24b29227/" rel="nofollow">LinkedIn</a></p>
 <h2 id="user-content-coding-skills" dir="auto"><a class="heading-link" href="#coding-skills">Coding Skills<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png"><img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" height="70px" style="max-width: 100%;"></a>
