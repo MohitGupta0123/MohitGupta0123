@@ -90,7 +90,7 @@ Here are some ideas to get you started:
  <a href="https://reactjs.org/" rel="nofollow"> 
     <img src="https://camo.githubusercontent.com/8552f38715af0ea9f364801b055f7a2448812b49075860983d53a81414349623/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6578742e6a7326636f6c6f723d303030303030266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="react" style="max-width: 100%;"> 
   </a>
-  <a href="/AnantJainn/AnantJainn/blob/main">
+  <a href="/MohitGupta0123/MohitGupta0123">
     <img src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465" alt="React Router" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;"> 
   </a><a href="https://jquery.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/0557e4fb0133b2f0f9816c9d0693a14bfb9691af6a8ec1ea0cdbd4ee9c9c2952/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a71756572792d3037363941442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465" alt="jquery" data-canonical-src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;"> 
@@ -99,9 +99,6 @@ Here are some ideas to get you started:
     <img src="https://camo.githubusercontent.com/3ca2745b8b214e8875b5f17336b7fe9f0e572109e31ac7cf031ead755cc6d9b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626162656c2d4639444333452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626162656c266c6f676f436f6c6f723d626c61636b" alt="babel" data-canonical-src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&amp;logo=babel&amp;logoColor=black" style="max-width: 100%;"> 
   </a>
   
-  <a href="/MohitGupta0123/MohitGupta0123">
-    <img src="https://camo.githubusercontent.com/60b022e85907fb54e71ba145be501944f7c800b9acaf025dd73fc23edad82322/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5075672d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d707567266c6f676f436f6c6f723d413836343534" alt="pug" data-canonical-src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&amp;logo=pug&amp;logoColor=A86454" style="max-width: 100%;"> 
-  </a>
 </p>
 <h3 align="center" id="user-content-backend" dir="auto"><a class="heading-link" href="#backend">Backend<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <p align="center" dir="auto">
@@ -201,7 +198,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgupta0123&" alt="mohitgupta0123" /></p>
 -->
 
-<h2 id="user-content-projects" dir="auto"><a class="heading-link" href="#projects">More about me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
+<h2 id="user-content-projects" dir="auto"><a class="heading-link" href="#more-about-me">More about me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
 <ul dir="auto">
 
 <li>
