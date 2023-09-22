@@ -13,23 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0123" alt="mohitgupta0123" /></a> </p>
-
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitgupta0123&show_icons=true&locale=en&layout=compact" alt="mohitgupta0123" ></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgupta0123&show_icons=true&locale=en" alt="mohitgupta0123" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgupta0123&" alt="mohitgupta0123" /></p>
--->
-
-
-
-
-
-
-
-
-
-
+<div align="center" dir="auto">
+  <div dir="auto">
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0123" alt="mohitgupta0123" /></a> </p>
+  </div>
+</div>
 
 
  <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"><img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png" alt="" style="max-width: 100%;"></a></p>
