@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0123" alt="mohitgupta0123" /></a> </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitgupta0123&show_icons=true&locale=en&layout=compact" alt="mohitgupta0123" ></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgupta0123&show_icons=true&locale=en" alt="mohitgupta0123" /></p>
@@ -183,14 +176,11 @@ Here are some ideas to get you started:
 <h3 align="center" id="user-content-languages" dir="auto"><a class="heading-link" href="#languages">Other Skills<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <div align="center" dir="auto">
   <div dir="auto">
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   </div>
 </div>
-
-
-
-
 
 <h3 align="center" id="user-content-connect-with-me" dir="auto"><a class="heading-link" href="#connect-with-me">Connect with me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <div align="center" dir="auto">
@@ -204,26 +194,29 @@ Here are some ideas to get you started:
   </div>
 </div>
 <h2 align="center" id="user-content-github-stats" dir="auto"><a class="heading-link" href="#github-stats">Github stats:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2> 
-<a href="https://github.com/MohitGupta0123">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitGupta0123&amp;theme=gruvbox&amp;hide_border=true)](https://github.com/MohitGupta0123" alt="Bharat's GitHub Stats Graph" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitGupta0123&amp;theme=gruvbox&amp;hide_border=true)](https://github.com/MohitGupta0123" style="max-width: 100%;">
-</a>
-<br><br>
-<a href="https://github.com/MohitGupta0123">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&amp;count_private=true&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;custom_title=Mohit%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&amp;count_private=true&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;custom_title=Mohit%20%27s%20Github%20Stats" style="max-width: 100%;">
-</a>
 
+<div align="center" dir="auto">
+  <div dir="auto">
+   <a href="https://github.com/MohitGupta0123">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitGupta0123&amp;theme=gruvbox&amp;hide_border=true)](https://github.com/MohitGupta0123" alt="Bharat's GitHub Stats Graph" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitGupta0123&amp;theme=gruvbox&amp;hide_border=true)](https://github.com/MohitGupta0123" style="max-width: 100%;">
+   </a>
+   <br><br>
+   <a href="https://github.com/MohitGupta0123">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&amp;count_private=true&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;custom_title=Mohit%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&amp;count_private=true&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true&amp;custom_title=Mohit%20%27s%20Github%20Stats" style="max-width: 100%;">
+   <br><br>
+    
+   </a>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MohitGupta0123&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGupta0123&langs_count=5&theme=tokyonight)]()
+   [![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohitGupta0123)](https://github.com/MohitGupta0123)
 
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitgupta0123&show_icons=true&locale=en&layout=compact" alt="mohitgupta0123" /></p>
 
-[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohitGupta0123)](https://github.com/MohitGupta0123)
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgupta0123&show_icons=true&locale=en" alt="mohitgupta0123" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitgupta0123&show_icons=true&locale=en&layout=compact" alt="mohitgupta0123" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgupta0123&" alt="mohitgupta0123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgupta0123&show_icons=true&locale=en" alt="mohitgupta0123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgupta0123&" alt="mohitgupta0123" /></p>
+  </div>
+</div>
 
 
 <h2 id="user-content-projects" dir="auto"><a class="heading-link" href="#more-about-me">More about me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
