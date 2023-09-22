@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MohitGupta0123/MohitGupta0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0123" alt="mohitgupta0123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitgupta0123" alt="mohitgupta0123" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
