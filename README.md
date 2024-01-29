@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     🐱 I'm 20 y/o Tech Enthusiasts.
 <br>👩‍🎓 Third year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
 <br>💫 I’m a Full stack MERN Web developer currently exploring Machine Learning and Deep Learning.
-<br>⭐ Besides all that I atheletic person and love to listen music. 
+<br>⭐ Besides all that I am a atheletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
 </p><p dir="auto">Follow me on <a href="https://www.instagram.com/its_moh.it_g_/" rel="nofollow">Instagram</a></p>
 </p><p dir="auto">Connect with me on <a href="https://www.linkedin.com/in/mohit-gupta-a24b29227/" rel="nofollow">LinkedIn</a></p>
