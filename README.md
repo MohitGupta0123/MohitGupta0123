@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 <!--
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"><img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png" alt="" style="max-width: 100%;"></a></p>
 -->
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"><img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png" alt="" style="max-width: 100%;"></a></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+
+<img src="AI1.jpg" alt="" style="max-width: 100%;">
   
 <h1 align="center" id="user-content-hi-im-mohit" dir="auto"><a class="heading-link" href="#hi-im-mohit">Hi !👋 I'm Mohit<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 
@@ -81,19 +83,19 @@ Here are some ideas to get you started:
 ### Connect With Me
 
 <div align="left">
-  <a href=https://www.youtube.com/channel/UCC_vY3q_kaz_ODxlapK2-lA> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href=https://www.instagram.com/_moh.it_gupta_/><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<!--   
+  <a href=https://www.instagram.com/_moh.it_gupta_/><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a> 
+-->
 <!--  
   <a href=”https://www.google.com“> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
   <a href=”https://www.google.com“> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a> 
 -->
+  <a href=https://www.youtube.com/channel/UCC_vY3q_kaz_ODxlapK2-lA> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href=mailto:mgmohit1111@gmail.com> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href=https://www.linkedin.com/in/mohit-gupta-a24b29227/> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href=https://twitter.com/Gupta_Mohit012> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
   <a href=https://medium.com/@mgmohit1111> <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  /></a>
-<!--   
-    <a href=”https://www.google.com“> <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  /> </a>
--->
+  <a href=https://dev.to/mohitgupta0123> <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  /> </a>
 </div>
 
 ### 
