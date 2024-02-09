@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png"><img src="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png" alt="" style="max-width: 100%;"></a></p>
--->
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
 <img src="AI-Background.jpg" alt="" height="500" width="100%">
@@ -106,11 +104,11 @@ Here are some ideas to get you started:
 </div>
 
 ### Contribution Graph
-
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MohitGupta0123/MohitGupta0123/output/snake.svg" alt="Snake animation" />
-
+-->
 ### Activity
 
 <div align="center">
