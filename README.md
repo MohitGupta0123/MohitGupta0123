@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 
-<img src="AI1.jpg" alt="" style="max-width: 100%;">
+<img src="AI-Background.jpg" alt="" style="max-width: 100%;">
   
 <h1 align="center" id="user-content-hi-im-mohit" dir="auto"><a class="heading-link" href="#hi-im-mohit">Hi !👋 I'm Mohit<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
 
@@ -57,20 +57,27 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=html5&logo=html5&label=&color=e34c26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html logo"  />
   <img src="https://img.shields.io/static/v1?message=css3&logo=css3&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css3 logo"  />
+  <img src="https://img.shields.io/static/v1?message=c&logo=c&label=&color=1383db&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c logo"  />
+  <img src="https://img.shields.io/static/v1?message=c plus plus&logo=cplusplus&label=&color=145484&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cplusplus logo"  />
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=fbcb24&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python3 logo"  />
   <img src="https://img.shields.io/static/v1?message=Anaconda&logo=anaconda&label=&color=24634c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="anaconda logo"  />
   <img src="https://img.shields.io/static/v1?message=jupyter&logo=jupyter&label=&color=ff6600&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="jupyter logo"  />
-  <img src="https://img.shields.io/static/v1?message=c&logo=c&label=&color=1383db&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c logo"  />
-  <img src="https://img.shields.io/static/v1?message=c Plus Plus&logo=cplusplus&label=&color=145484&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cplusplus logo"  />
   <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=f34f29&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
   <img src="https://img.shields.io/static/v1?message=github&logo=github&label=&color=424242&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   <img src="https://img.shields.io/static/v1?message=kaggle&logo=kaggle&label=&color=336fff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
-  <img src="https://img.shields.io/static/v1?message=mongodb&logo=mongodb&label=&color=0cd45b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mongodb logo"  />
   <img src="https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=081c7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img src="https://img.shields.io/static/v1?message=mongodb&logo=mongodb&label=&color=0cd45b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mongodb logo"  />
+    <img src="https://img.shields.io/static/v1?message=tableau&logo=tableau&label=&color=041f78&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tableau logo"  />
+  <img src="https://img.shields.io/static/v1?message=powerbi&logo=powerbi&label=&color=fa940d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="powerbi logo"  />
   <img src="https://img.shields.io/static/v1?message=numpy&logo=numpy&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="numpy logo"  />
   <img src="https://img.shields.io/static/v1?message=pandas&logo=pandas&label=&color=4848b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pandas logo"  />
   <img src="https://img.shields.io/static/v1?message=scikit-learn&logo=scikit-learn&label=&color=f7a320&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scikit-learn logo"  />
-  <img src="https://img.shields.io/static/v1?message=tensorflow&logo=tensorflow&label=&color=ff6f00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tensorflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=plotly&logo=plotly&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="plotly logo"  />
+  <img src="https://img.shields.io/static/v1?message=tensorflow&logo=tensorflow&label=&color=ffa800&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tensorflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=opencv&logo=opencv&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="opencv logo"  />
+  
+  
+  
 </div>
 
 
