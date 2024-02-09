@@ -104,11 +104,11 @@ Here are some ideas to get you started:
 </div>
 
 ### Contribution Graph
-<!--
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MohitGupta0123/MohitGupta0123/output/snake.svg" alt="Snake animation" />
--->
+
 ### Activity
 
 <div align="center">
