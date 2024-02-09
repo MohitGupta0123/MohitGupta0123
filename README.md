@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <img src="AI-Background.jpg" alt="" height="500" width="100%">
   
-<h1 align="center" id="user-content-hi-im-mohit" dir="auto"><a class="heading-link" href="#hi-im-mohit">Hi !👋 I'm Mohit<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
+<h1 align="center" id="user-content-hi-im-mohit" dir="auto"><a class="heading-link" href="#hi-im-mohit">Hi !👋 I'm Mohit</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgupta0123&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgupta0123" /> </p>
 
-<h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>  
+<h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :</a></h3>  
  <p dir="auto">
     🐱 I'm 20 y/o Tech Enthusiasts.
 <br>👩‍🎓 Third year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
@@ -35,15 +35,8 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left">I'm an aspiring Data Scientist.</h2>
 
-### General Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitGupta0123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MohitGupta0123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<h2 align="left"><a href="">I'm an aspiring Data Scientist.</a></h2>
 
 ###
 
@@ -72,17 +65,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=scikit-learn&logo=scikit-learn&label=&color=f7a320&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="scikit-learn logo"  />
   <img src="https://img.shields.io/static/v1?message=plotly&logo=plotly&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="plotly logo"  />
   <img src="https://img.shields.io/static/v1?message=tensorflow&logo=tensorflow&label=&color=ffa800&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tensorflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=opencv&logo=opencv&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="opencv logo"  />
-  
-  
-  
+  <img src="https://img.shields.io/static/v1?message=opencv&logo=opencv&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="opencv logo"  />  
 </div>
-
-
-
-
-
-
 
 
 ### Connect With Me
@@ -101,13 +85,23 @@ Here are some ideas to get you started:
   <a href=https://dev.to/mohitgupta0123> <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  /> </a>
 </div>
 
+
 ### Contribution Graph
 
-<br clear="both">
-
+<!-- <br clear="both"> -->
 <img src="https://raw.githubusercontent.com/MohitGupta0123/MohitGupta0123/output/snake.svg" alt="Snake animation" />
 
-### Activity
+
+### General Stats And Record
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitGupta0123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MohitGupta0123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+
+### Trophies And Activity Graph
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MohitGupta0123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -120,11 +114,11 @@ Here are some ideas to get you started:
 
 
 
-<h2 id="user-content-projects" dir="auto"><a class="heading-link" href="#more-about-me">More about me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
+<h2 id="user-content-projects" dir="auto"><a class="heading-link" href="#more-about-me">More about me</a></h2>
 <ul dir="auto">
 
 <li>
-<p dir="auto">👀 I’m interested in developing new projects and like to work in colaborative projects.</p>
+<p dir="auto">👀 I’m interested in developing new projects and like to work in colaborative projects and grow together.</p>
 </li>
 <li>
 <p dir="auto">🌱 I’m currently learning Natural language Processing(NLP) and Computer Vision(CV).</p>
