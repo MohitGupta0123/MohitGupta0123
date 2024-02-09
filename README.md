@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left"><a href="">I'm an aspiring Data Scientist.</a></h2>
+<h2 align="left"><a href="#skills">I'm an aspiring Data Scientist.</a></h2>
 
 ###
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### Skills
 
-<div align="left">
+<div align="left" class="skills">
   <img src="https://img.shields.io/static/v1?message=html5&logo=html5&label=&color=e34c26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html logo"  />
   <img src="https://img.shields.io/static/v1?message=css3&logo=css3&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3 logo"  />
   <img src="https://img.shields.io/static/v1?message=c&logo=c&label=&color=1383db&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="c logo"  />
