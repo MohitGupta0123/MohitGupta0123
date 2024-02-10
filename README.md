@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :</a></h3>  
  <p dir="auto">
-    🐱 I'm 20 y/o Tech Enthusiasts.
+    🐱 I'm 21 y/o Tech Enthusiasts.
 <br>👩‍🎓 Third year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
 <br>💫 I’m a Full stack Data Scientist currently working on Deep Learning and Generative AI (GAN).
 <br>⭐ Besides all that I am a athletic person and love to listen music. 
