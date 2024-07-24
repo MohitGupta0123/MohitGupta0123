@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :</a></h3>  
  <p dir="auto">
     🐱 I'm 21 y/o Tech Enthusiasts.
-<br>👩‍🎓 Third year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
+<br>👩‍🎓 Fourth year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
 <br>💫 I’m a Full stack Data Scientist currently working on Deep Learning and Generative AI (GAN).
 <br>⭐ Besides all that I am a athletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
@@ -58,14 +58,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=kaggle&logo=kaggle&label=&color=336fff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="kaggle logo"  />
   <img src="https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=081c7b&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mysql logo"  />
   <img src="https://img.shields.io/static/v1?message=mongodb&logo=mongodb&label=&color=0cd45b&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mongodb logo"  />
-    <img src="https://img.shields.io/static/v1?message=tableau&logo=tableau&label=&color=041f78&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tableau logo"  />
-  <img src="https://img.shields.io/static/v1?message=powerbi&logo=powerbi&label=&color=fa940d&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="powerbi logo"  />
+  <img src="https://img.shields.io/static/v1?message=tableau&logo=tableau&label=&color=041f78&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tableau logo"  />
+    <img src="https://img.shields.io/static/v1?message=powerbi&logo=PowerBI&label=&color=fa940d&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="powerbi logo"  />
   <img src="https://img.shields.io/static/v1?message=numpy&logo=numpy&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="numpy logo"  />
   <img src="https://img.shields.io/static/v1?message=pandas&logo=pandas&label=&color=4848b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="pandas logo"  />
   <img src="https://img.shields.io/static/v1?message=scikit-learn&logo=scikit-learn&label=&color=f7a320&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="scikit-learn logo"  />
   <img src="https://img.shields.io/static/v1?message=plotly&logo=plotly&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="plotly logo"  />
   <img src="https://img.shields.io/static/v1?message=tensorflow&logo=tensorflow&label=&color=ffa800&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tensorflow logo"  />
   <img src="https://img.shields.io/static/v1?message=opencv&logo=opencv&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="opencv logo"  />  
+  <img src="https://img.shields.io/static/v1?message=Natural Language Processing&logo=nltk&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="nltk logo"  />
+  <img src="https://img.shields.io/static/v1?message=Hugging Face&logo=huggingface&label=&color=fcc404&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="HF logo"  />
 </div>
 
 
@@ -121,7 +123,7 @@ Here are some ideas to get you started:
 <p dir="auto">👀 I’m interested in developing new projects and like to work in colaborative projects and grow together.</p>
 </li>
 <li>
-<p dir="auto">🌱 I’m currently learning Natural language Processing(NLP) and Computer Vision(CV).</p>
+<p dir="auto">🌱 I’m currently learning Generative AI.</p>
 </li>
 <li>
 <p dir="auto">💞️ I’m looking for internship in the field of Web Development, Machine Leaning & Data Science.</p>
