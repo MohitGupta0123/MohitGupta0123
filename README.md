@@ -125,8 +125,13 @@ Here are some ideas to get you started:
 ### General Stats And Record
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitGupta0123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitGupta0123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitGupta0123&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=7200" height="200" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohitGupta0123&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=7200" height="200" alt="Top Languages" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitGupta0123&theme=github_dark" height="150" alt="streak graph"  />
 </div>
 
@@ -134,13 +139,12 @@ Here are some ideas to get you started:
 ### Trophies And Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MohitGupta0123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!--   <img src="https://github-profile-trophy.vercel.app?username=MohitGupta0123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+
+  <img src="https://github-profile-trophy.vercel.app/?username=MohitGupta0123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&cache_seconds=7200" height="150" alt="GitHub Trophy" />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitGupta0123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-
-
-
 
 
 
