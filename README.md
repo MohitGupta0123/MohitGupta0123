@@ -19,6 +19,11 @@ Here are some ideas to get you started:
   
 <h1 align="center" id="user-content-hi-im-mohit" dir="auto"><a class="heading-link" href="#hi-im-mohit">Hi !👋 I'm Mohit</a></h1>
 
+<img
+  align="right"
+  src="https://visitor-badge.laobi.icu/badge?page_id=MohitGupta0123.MohitGupta0123"
+/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgupta0123&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgupta0123" /> </p>
 
 <h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :</a></h3>  
