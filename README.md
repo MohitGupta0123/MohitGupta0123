@@ -160,7 +160,7 @@ Here are some ideas to get you started:
 <p dir="auto">🌱 I’m currently learning Generative AI.</p>
 </li>
 <li>
-<p dir="auto">💞️ I’m looking for internship in the field of Web Development, Machine Leaning & Data Science.</p>
+<p dir="auto">💞️ I’m looking for Job in the field of Web Development, Machine Leaning & Data Science.</p>
 </li>
 <li>
 <p dir="auto">📫 Feel free to contact me anytime ...</p>
