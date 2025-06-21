@@ -27,12 +27,12 @@ Here are some ideas to get you started:
  <p dir="auto">
     🐱 I'm 21 y/o Tech Enthusiasts.
 <br>👩‍🎓 Fourth year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
-<br>💫 I’m a Full stack Data Scientist currently working on Deep Learning and Generative AI (GAN).
+<br>💫 I’m a Full stack AI Engineer currently working on Deep Learning and Generative AI (GAN).
 <br>⭐ Besides all that I am a athletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
 
 
-<h2 align="left"><a href="#skills">I'm an aspiring Data Scientist.</a></h2>
+<h2 align="left"><a href="#skills">I'm an aspiring AI Engineer.</a></h2>
 
 ###
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <div align="left" class="skills">
   <!-- Frontend Technologies -->
   <img src="https://img.shields.io/static/v1?message=html5&logo=html5&label=&color=e34c26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="html logo" />
-  <img src="https://img.shields.io/static/v1?message=css3&logo=css3&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3 logo" />
+  <img src="https://img.shields.io/static/v1?message=css3&logo=css&label=&color=264de4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="css3 logo" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=f7e02f&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="js logo" />
   <img src="https://img.shields.io/static/v1?message=TailwindCSS&logo=tailwindcss&label=&color=38b2ac&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tailwind logo" />
   
@@ -76,7 +76,6 @@ Here are some ideas to get you started:
   <!-- Deep Learning & AI -->
   <img src="https://img.shields.io/static/v1?message=tensorflow&logo=tensorflow&label=&color=ffa800&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tensorflow logo" />
   <img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=ee4c2c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="pytorch logo" />
-  <img src="https://img.shields.io/static/v1?message=JAX&logo=jax&label=&color=45a1ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="jax logo" />
   <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=ff6f61&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="keras logo" />
   <img src="https://img.shields.io/static/v1?message=opencv&logo=opencv&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="opencv logo" />
   <img src="https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=2496ed&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Docker logo" />
@@ -86,13 +85,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=Natural%20Language%20Processing&logo=nltk&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="nltk logo" />
   <img src="https://img.shields.io/static/v1?message=Hugging%20Face&logo=huggingface&label=&color=fcc404&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="HF logo" />
   <img src="https://img.shields.io/static/v1?message=Large%20Language%20Models&logo=openai&label=&color=2f5030&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="openai logo" />
+  <img src="https://img.shields.io/static/v1?message=Neo4j&logo=neo4j&label=&color=008CC1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Neo4j logo" />
+  <img src="https://img.shields.io/static/v1?message=LangChain&logo=OpenAI&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LangChain logo" />
+  <img src="https://img.shields.io/static/v1?message=LangGraph&logo=OpenAI&label=&color=6E40C9&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LangGraph logo" />
+  <img src="https://img.shields.io/static/v1?message=FAISS&logo=facebook&label=&color=0055AA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="FAISS logo" />
+  <img src="https://img.shields.io/static/v1?message=ChromaDB&logo=apachekafka&label=&color=33CC99&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ChromaDB logo" />
+
   
   <!-- Big Data -->
   <img src="https://img.shields.io/static/v1?message=Apache%20Spark&logo=apache-spark&label=&color=ff5722&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Apache Spark logo" />
   <img src="https://img.shields.io/static/v1?message=Hadoop&logo=apache-hadoop&label=&color=66cc66&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Hadoop logo" />
   
   <!-- Others -->
+  <img src="https://img.shields.io/static/v1?message=Streamlit&logo=streamlit&label=&color=FF4B4B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Streamlit logo" />
   <img src="https://img.shields.io/static/v1?message=SciPy&logo=scipy&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="SciPy logo" />
+  <img src="https://img.shields.io/static/v1?message=SpaCy&logo=spacy&label=&color=00A3E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="SpaCy logo" />
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linux logo" />
   <img src="https://img.shields.io/static/v1?message=Ubuntu&logo=ubuntu&label=&color=E95420&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Ubuntu logo" />
 
