@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="200" src="AI.gif"  />
-
+<p align="center">
+  <img align="center" height="200" src="AI.gif"  />
+</p>
 
 ### Skills
 
