@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-
+<!--
 <img src="AI-Background.jpg" alt="" height="500" width="100%">
-  
+  -->
 <h1 align="center" id="user-content-hi-im-mohit" dir="auto"><a class="heading-link" href="#hi-im-mohit">Hi !👋 I'm Mohit</a></h1>
 
 <!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohitGupta0123.MohitGupta0123"/>  -->
