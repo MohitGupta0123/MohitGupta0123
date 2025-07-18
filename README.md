@@ -99,6 +99,7 @@ Here are some ideas to get you started:
   
   <!-- Others -->
   <img src="https://img.shields.io/static/v1?message=Streamlit&logo=streamlit&label=&color=FF4B4B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Streamlit logo" />
+  <img src="https://img.shields.io/static/v1?message=Render&logo=render&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Streamlit logo" />
   <img src="https://img.shields.io/static/v1?message=SciPy&logo=scipy&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="SciPy logo" />
   <img src="https://img.shields.io/static/v1?message=SpaCy&logo=spacy&label=&color=00A3E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="SpaCy logo" />
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linux logo" />
