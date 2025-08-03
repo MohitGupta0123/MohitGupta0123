@@ -79,8 +79,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=ee4c2c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="pytorch logo" />
   <img src="https://img.shields.io/static/v1?message=Keras&logo=keras&label=&color=ff6f61&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="keras logo" />
   <img src="https://img.shields.io/static/v1?message=opencv&logo=opencv&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="opencv logo" />
-  <img src="https://img.shields.io/static/v1?message=docker&logo=docker&label=&color=2496ed&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Docker logo" />
-  <img src="https://img.shields.io/static/v1?message=MLFlow&logo=mlflow&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="mlflow logo" />
   
   <!-- NLP & Hugging Face -->
   <img src="https://img.shields.io/static/v1?message=Natural%20Language%20Processing&logo=nltk&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="nltk logo" />
@@ -92,6 +90,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=FAISS&logo=facebook&label=&color=0055AA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="FAISS logo" />
   <img src="https://img.shields.io/static/v1?message=ChromaDB&logo=apachekafka&label=&color=33CC99&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ChromaDB logo" />
 
+  <!-- MLOps -->
+  <img src="https://img.shields.io/static/v1?message=MLflow&logo=MLflow&label=&color=4361ee&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="MLflow logo" />
+  <img src="https://img.shields.io/static/v1?message=Docker&logo=Docker&label=&color=023e8a&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Docker logo" />
+  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=Kubernetes&label=&color=3a86ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Kubernetes logo" />
+  <img src="https://img.shields.io/static/v1?message=FastAPI&logo=FastAPI&label=&color=83c5be&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="FastAPI logo" />
+  <img src="https://img.shields.io/static/v1?message=Prometheus&logo=Prometheus&label=&color=dc2f02&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Prometheus logo" />
+  <img src="https://img.shields.io/static/v1?message=Grafana&logo=Grafana&label=&color=f48c06&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Grafana logo" />
   
   <!-- Big Data -->
   <img src="https://img.shields.io/static/v1?message=Apache%20Spark&logo=apache-spark&label=&color=ff5722&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Apache Spark logo" />
