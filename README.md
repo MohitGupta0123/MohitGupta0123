@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :</a></h3>  
  <p dir="auto">
     🐱 I'm 21 y/o Tech Enthusiasts.
-<br>👩‍🎓 Fourth year Artificial Intelligence &amp; Data Science student at University School Of Automation &amp; Robotics, GGSIPU.
-<br>💫 I’m a Full stack AI Engineer currently working on Deep Learning and Generative AI (GAN).
+<br>👩‍🎓 I’m a Full stack AI Engineer.
+<br>💫 Currently exploring Titans and working on recent AI Developments.
 <br>⭐ Besides all that I am a athletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
 
 
-<h2 align="left"><a href="#skills">I'm an aspiring AI Engineer.</a></h2>
+<h2 align="left"><a href="#skills">I'm an AI Engineer.</a></h2>
 
 ###
 
