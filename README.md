@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <p dir="auto">
     🐱 I'm 21 y/o Tech Enthusiasts.
 <br>👩‍🎓 I’m a Full stack AI Engineer.
-<br>💫 Currently exploring Titans and working on recent AI Developments.
+<br>💫 Currently exploring Titans Transformers and working on recent AI Developments.
 <br>⭐ Besides all that I am a athletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
 
