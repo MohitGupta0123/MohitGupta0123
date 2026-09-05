@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <h3 id="user-content-about-me-" dir="auto"><a class="heading-link" href="#about-me-">About Me :</a></h3>  
  <p dir="auto">
-    🐱 I'm 21 y/o Tech Enthusiasts.
-<br>👩‍🎓 I’m a Full stack AI Engineer.
+    🐱 I'm 24 y/o Tech Enthusiasts.
+<br>👩‍🎓 I’m a Full stack AIML Engineer.
 <br>💫 Currently exploring Titans Transformers and working on recent AI Developments.
 <br>⭐ Besides all that I am a athletic person and love to listen music. 
 <br>👩‍💻 Ready to hustle and explore awesome things!
